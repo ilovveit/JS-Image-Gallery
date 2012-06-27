@@ -1,0 +1,7 @@
+This is a very basic image gallery I built using javascript. My portfolio website currently uses this gallery to display its content. It can display both images and blocks of text, effectively making it a very (very!) rudimentary CMS. Information is stored in an XML file and parsed and displayed using javascript.
+
+Here's what I have in store for this project in the future:
+
+    Better string formatting: support for blockquotes, headers etc.
+    Re-written in a more OOP-centric way.
+
