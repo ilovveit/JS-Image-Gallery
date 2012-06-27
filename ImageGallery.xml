@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<projectdata>
+
+	<project name="sample_gallery" thumb="images/project_thumbs/graphic_design_thumb.jpg">
+		<text>
+			Some text.  Text can be inserted at any point in the gallery.
+		</text>
+		<image>
+			<title>Bananas #1</title>
+			<src>images/graphic_design/bananas1.jpg</src>
+			<caption>Bananas.</caption>			
+		</image>
+		<image>
+			<title>Bananas #2</title>
+			<src>images/graphic_design/bananas2.jpg</src>
+			<caption>Bananas.</caption>			
+		</image>
+
+		<image>
+			<title>Bananas #3</title>
+			<src>images/graphic_design/bananas3.jpg</src>
+			<caption>Bananas.</caption>			
+		</image>
+
+		<image>
+			<title>Bananas#4</title>
+			<src>images/graphic_design/bananas4.jpg</src>
+			<caption>Bananas.</caption>		
+		</image>
+		<image>
+			<title>Bananas#5</title>
+			<src>images/graphic_design/bananas5.jpg</src>
+			<caption>Bananas.</caption>			
+		</image>
+	</project>
+
+</projectdata>

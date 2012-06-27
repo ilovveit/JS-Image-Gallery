@@ -1,0 +1,50 @@
+/*gallery.js stuff*/
+
+.gallery_img {
+	width: 400px;
+	display: block;
+	margin: 0 auto;
+	opacity:0.5;
+	filter:alpha(opacity=50);
+}
+
+#imageNav {
+	width: 1000px;
+	margin: 0 auto;
+	
+}
+
+.projectGalleryImgDiv {
+	margin: 5px 10px;
+	padding: 5px;
+	float: left;
+	position: relative;
+	width: 300px;
+	height: 240px;
+	text-align: center;
+	z-index: -2;
+}
+
+.projectGalleryImgDivInner{
+	text-align: center;
+	position: relative;
+}
+
+.projectThumb {
+	width: 300px;
+}
+
+.redBg	{
+	background-color: #ff1a1a;
+	position: absolute;
+	z-index: -1;
+	width: 300px;
+	height: 200px;
+	margin: 0px;
+}
+
+.projectTitle {
+	display:block;
+	font-size: 1.3em;
+	color: #444444;
+}
